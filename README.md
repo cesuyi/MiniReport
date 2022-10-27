@@ -2,12 +2,13 @@
 
  疫情防控报备小程序，适合广大企事业单位，学校幼儿园，社区村委等更好的统计所辖人员的疫情数据，主要功能包括健康监测、行程跟踪、核酸报名、隔离统计、健康打卡（每天）等，后台可以发布各种通知消息，查看填报数据，对用户进行审核准入，并可以把每天的填报数据导出为Excel表格。本方案前后端完整代码，采用腾讯提供的小程序云开发解决方案，无须服务器和域名。
 
-![输入图片说明](demo/qr.png)
+![image](https://user-images.githubusercontent.com/116699313/198164721-3c92f708-b283-4cc1-aba7-93e72d79acd9.png)
 
 
 ## 功能说明
 
-![输入图片说明](demo/%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%8A%A5%E5%A4%87%E5%B0%8F%E7%A8%8B%E5%BA%8F%20(2).gif)
+ 
+![image](https://user-images.githubusercontent.com/116699313/198164729-a237eec8-26d4-4ed6-be35-e7bf2ebc1ace.png)
 
 
 ## 技术运用
@@ -19,16 +20,11 @@
 
 
 
-## 作者
-- 如有疑问，欢迎骚扰联系我：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
-- 俺的微信: 
  
-![输入图片说明](demo/author-base.png)
-
 
 ## 演示 
 
- ![输入图片说明](demo/qr.png)
+![image](https://user-images.githubusercontent.com/116699313/198164739-662f325f-33c7-4b45-92d1-f1420e19a8dd.png)
 
 ## 安装
 
@@ -38,29 +34,28 @@
 
 
 ## 截图
-![输入图片说明](demo/1%E9%A6%96%E9%A1%B5.png)
+ ![image](https://user-images.githubusercontent.com/116699313/198164750-d2abc3bc-a825-49f7-b41c-ea2be947c18d.png)
+![image](https://user-images.githubusercontent.com/116699313/198164756-71884381-8cc7-48be-98bc-ee151bc356c9.png)
+![image](https://user-images.githubusercontent.com/116699313/198164763-7705501f-df73-4fac-9cd4-227be01e1f21.png)
+![image](https://user-images.githubusercontent.com/116699313/198164774-0bd18c5b-f873-48bc-a5eb-9057e776de0d.png)
+![image](https://user-images.githubusercontent.com/116699313/198164786-577548f4-aa5b-44ea-82dc-05797a4cfe4f.png)
+![image](https://user-images.githubusercontent.com/116699313/198164789-7e7fc324-f127-49ad-bc10-781a5ff1161c.png)
+![image](https://user-images.githubusercontent.com/116699313/198164796-2b8283ce-f2d2-48f5-b6b3-d9550231154c.png)
+![image](https://user-images.githubusercontent.com/116699313/198164801-efc1ae1b-5286-4643-9fcd-2fed3c385db7.png)
+![image](https://user-images.githubusercontent.com/116699313/198164806-98b364d9-d64a-40db-9743-644cb5957e4a.png)
+![image](https://user-images.githubusercontent.com/116699313/198164812-b708259d-8f5c-470d-b44f-b331fc1c57d5.png)
+![image](https://user-images.githubusercontent.com/116699313/198164816-4bfc5d91-d891-4345-aa0c-6ec587bf2ad9.png)
 
-![输入图片说明](demo/2%E5%85%AC%E5%91%8A.png)
-![输入图片说明](demo/3%E5%81%A5%E5%BA%B7%E6%89%93%E5%8D%A1.png)
-
-![输入图片说明](demo/4%20%E7%96%AB%E6%83%85%E6%8E%92%E6%9F%A5.png)
- ![输入图片说明](demo/5%E5%87%BA%E8%A1%8C%E6%8A%A5%E5%A4%87.png)
-![输入图片说明](demo/6%E5%87%BA%E8%A1%8C%E6%8A%A5%E5%A4%872.png)
-![输入图片说明](demo/7%E5%87%BA%E8%A1%8C%E6%8A%A5%E5%A4%873.png)
-![输入图片说明](demo/8%E6%A0%B8%E9%85%B8%E6%8A%A5%E5%90%8D.png)
-![输入图片说明](demo/9%E9%9A%94%E7%A6%BB%E7%BB%9F%E8%AE%A1.png)
-![输入图片说明](demo/10%E9%9A%94%E7%A6%BB%E7%BB%9F%E8%AE%A12.png)
-![输入图片说明](demo/11%E6%88%91%E7%9A%84.png)
 
 ## 后台管理系统截图 
 - 后台超级管理员默认账号:admin，密码123456，请登录后台后及时修改密码和创建普通管理员。
+![image](https://user-images.githubusercontent.com/116699313/198164821-2464f1f3-f3b9-42ef-ba29-28b8fadcba52.png)
+![image](https://user-images.githubusercontent.com/116699313/198164831-6a4dafba-a3f0-4ace-a201-a440ef5cb366.png)
+![image](https://user-images.githubusercontent.com/116699313/198164836-425c9aa3-e3af-4de8-a728-4810e4639852.png)
+![image](https://user-images.githubusercontent.com/116699313/198164841-5aa74e7f-09a0-45b7-b787-507f1cd7f159.png)
+![image](https://user-images.githubusercontent.com/116699313/198164849-8f6cfcdf-4e9d-4c88-b29c-d3e1d667c95e.png)
+![image](https://user-images.githubusercontent.com/116699313/198164854-68cee994-1302-4edc-a18c-490f9f2f8ee7.png)
+![image](https://user-images.githubusercontent.com/116699313/198164868-7b0ec14e-29b9-42b5-8b31-fa19701c3c6c.png)
 
-![输入图片说明](demo/12%E7%AE%A1%E7%90%86%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/13%E5%A1%AB%E6%8A%A5%E7%AE%A1%E7%90%86.png)
+ ![image](https://user-images.githubusercontent.com/116699313/198164874-3a920abf-3395-4412-bc89-561ed1185dff.png)
 
-![输入图片说明](demo/14%E6%95%B0%E6%8D%AE%E5%AF%BC%E5%87%BA.png)
-![输入图片说明](demo/15%E5%AF%BC%E5%87%BA%E6%95%B0%E6%8D%AE.jpg)
-![输入图片说明](demo/16%E5%87%BA%E8%A1%8C%E6%8A%A5%E5%A4%87.png)
-![输入图片说明](demo/18%E6%8A%A5%E5%A4%87%E8%AF%A6%E6%83%85.png)
-![输入图片说明](demo/20%E6%8A%A5%E5%A4%87%E5%AF%BC%E5%87%BA.jpg)
-![输入图片说明](demo/21%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86.png)
